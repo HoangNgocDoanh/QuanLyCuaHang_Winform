@@ -1,0 +1,8 @@
+D:\Lập trình\Windows\Project_QLCHDT\Entities\bin\Debug\Entities.exe.config
+D:\Lập trình\Windows\Project_QLCHDT\Entities\bin\Debug\Entities.exe
+D:\Lập trình\Windows\Project_QLCHDT\Entities\bin\Debug\Entities.pdb
+D:\Lập trình\Windows\Project_QLCHDT\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Lập trình\Windows\Project_QLCHDT\Entities\obj\Debug\Entities.Properties.Resources.resources
+D:\Lập trình\Windows\Project_QLCHDT\Entities\obj\Debug\Entities.csproj.GenerateResource.Cache
+D:\Lập trình\Windows\Project_QLCHDT\Entities\obj\Debug\Entities.exe
+D:\Lập trình\Windows\Project_QLCHDT\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,16 @@
+D:\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.exe.config
+D:\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.exe
+D:\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.pdb
+D:\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.Properties.Resources.resources
+D:\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.csproj.GenerateResource.Cache
+D:\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.exe
+D:\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.exe.config
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\bin\Debug\Entity.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.Properties.Resources.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.csproj.GenerateResource.Cache
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,133 @@
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe.config
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.pdb
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Login.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.Properties.Resources.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.csproj.GenerateResource.Cache
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.exe
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.pdb
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Register.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.csprojResolveAssemblyReference.cache
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Guna.UI.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_DATABASE.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MANAGE.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_PerInfo.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\aa\_GUI.resources.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.aa.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\aa\_GUI.resources.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_DataInfo.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Payment.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Reports.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_About.resources
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_BUS.exe
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_DAL.exe
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Entity.exe
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Ubiety.Dns.Core.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.dll
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_BUS.pdb
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_DAL.pdb
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Entity.pdb
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.xml
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.xml
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.xml
+D:\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Splashscreen.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe.config
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_GUI.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\aa\_GUI.resources.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Entity.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Ubiety.Dns.Core.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_BUS.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_DAL.exe
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Entity.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_BUS.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\_DAL.pdb
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.xml
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.xml
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.xml
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.csprojResolveAssemblyReference.cache
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_About.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Database.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_DataInfo.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Login.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Manage.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Payment.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_PerInfo.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Register.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Reports.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Splashscreen.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.Properties.Resources.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.aa.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.csproj.GenerateResource.Cache
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\aa\_GUI.resources.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Cart.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_CustomerInfo.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainMenuCashier.resources
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Guna.UI.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Spire.License.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Spire.Pdf.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Microsoft.mshtml.dll
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Spire.License.xml
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\bin\Debug\Spire.Pdf.xml
+E:\Workspace\Lập trình\Windows\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_History.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe.config
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_GUI.exe
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_GUI.pdb
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\aa\_GUI.resources.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Entity.exe
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Spire.License.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Spire.Pdf.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Ubiety.Dns.Core.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_BUS.exe
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_DAL.exe
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Microsoft.mshtml.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Entity.pdb
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Entity.exe.config
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_BUS.pdb
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_BUS.exe.config
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_DAL.pdb
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\_DAL.exe.config
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Google.Protobuf.xml
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\MySql.Data.xml
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Renci.SshNet.xml
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Spire.License.xml
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\bin\Debug\Spire.Pdf.xml
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.csprojAssemblyReference.cache
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_About.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Cart.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_CustomerInfo.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Database.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_DataInfo.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_History.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Login.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainMenuCashier.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Manage.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Payment.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_PerInfo.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Register.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Reports.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_Splashscreen.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.Properties.Resources.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.frm_MainForm.aa.resources
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.csproj.GenerateResource.cache
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.csproj.CoreCompileInputs.cache
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\aa\_GUI.resources.dll
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.csproj.CopyComplete
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.exe
+D:\Đại Học\Năm 2 Kỳ 2\Lập trình trên WD\Project\Hoàng Ngọc Doanh - Lê Nguyễn Thanh Nhân - Final Project Lập Trình Window\Project_QLCHDT\_GUI\obj\Debug\_GUI.pdb
